@@ -9,7 +9,7 @@ import {getFirestore} from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: process.env.FIREBASE_API,
+  apiKey: "AIzaSyA8MQYO8mI9vCsJx_wDhwDNlfnHb6mTka0",
   authDomain: "livechat-515ff.firebaseapp.com",
   projectId: "livechat-515ff",
   storageBucket: "livechat-515ff.appspot.com",
